@@ -1,5 +1,5 @@
-# Charge Limiter
-
+# Chargeguard
+This is fork of charge limiter by
 macOS app to set battery charge limit for Intel MacBooks
 
 ## Description
@@ -12,7 +12,7 @@ The companion `bclm` binary (located under `src/Charge Limiter.app/Contents/Reso
 
 ## Releases
 
-Download the latest version from the [releases](https://github.com/godly-devotion/charge-limiter/releases) page.
+Download the latest version from the releases tab.
 
 ## Running
 
